@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "8DbDd3",
+    "candyMachine": "8DbDd3JZ4wdb8TmQmFiWkXFb3g3xGw27Y4vDqQsALW84"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/rvN-1_uW_27dWrjnlgdT-wPDfMac6Ajx4M4Y3fm6Gdc",
+      "imageLink": "https://arweave.net/1p_VvioLeBXoF9zpFnALqryXzux1gJOT4258jw8YJBo?ext=png",
+      "name": "Sanji",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/RF_UPZFVcNtLywXYHQjSsM1YaSb7kJQll1wIUPJWdWg",
+      "imageLink": "https://arweave.net/I_l_u5HCNqwStjwMp_K7dbDDL9tLK2-Xd4_TkfGStds?ext=png",
+      "name": "Luffy",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/cQMhTcWBZDe4e7fX5RYMV_PggApQ8iGvp9nYVBMHUkA",
+      "imageLink": "https://arweave.net/MjRhr_gJ6UigvzifEdTQO2WJ_g6mHZTZLu92qPG2S5k?ext=png",
+      "name": "Zoro",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "startDate": "5ff3ac00"
+}
